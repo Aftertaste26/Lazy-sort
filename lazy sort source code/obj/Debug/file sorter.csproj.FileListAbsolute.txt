@@ -11,3 +11,16 @@ G:\file sorter\obj\Debug\file sorter.exe.manifest
 G:\file sorter\obj\Debug\file sorter.application
 G:\file sorter\obj\Debug\file sorter.exe
 G:\file sorter\obj\Debug\file sorter.pdb
+G:\lazy sort\lazy sort source code\bin\Debug\file sorter.exe.config
+G:\lazy sort\lazy sort source code\bin\Debug\file sorter.exe.manifest
+G:\lazy sort\lazy sort source code\bin\Debug\file sorter.application
+G:\lazy sort\lazy sort source code\bin\Debug\file sorter.exe
+G:\lazy sort\lazy sort source code\bin\Debug\file sorter.pdb
+G:\lazy sort\lazy sort source code\obj\Debug\file_sorter.Form1.resources
+G:\lazy sort\lazy sort source code\obj\Debug\file_sorter.Properties.Resources.resources
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.csproj.GenerateResource.cache
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.csproj.CoreCompileInputs.cache
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.exe.manifest
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.application
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.exe
+G:\lazy sort\lazy sort source code\obj\Debug\file sorter.pdb

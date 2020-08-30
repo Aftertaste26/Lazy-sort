@@ -81,10 +81,11 @@ namespace file_sorter
         private void File_Move(string source)
         {
             Console.WriteLine("I'm about to move the file to destination");
-            string[] soureceSplit = source.Split('\\');
-            string filename = soureceSplit.Last();
-            string directory  = soureceSplit[soureceSplit.Length-2];
-            string destination = directory +"\\"+ filename.Split('.').Last();
+            string[] sourceSplit = source.Split('\\');
+            string filename = sourceSplit.Last();
+            string driveLetter = sourceSplit.First();
+            string directory  = sourceSplit[sourceSplit.Length-2];
+            string destination = driveLetter+"\\"+directory +"\\"+ filename.Split('.').Last();
 
             Console.WriteLine(source);
             Console.WriteLine(filename);
