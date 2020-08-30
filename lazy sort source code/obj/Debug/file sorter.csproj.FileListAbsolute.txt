@@ -1,0 +1,13 @@
+G:\file sorter\bin\Debug\file sorter.exe.config
+G:\file sorter\bin\Debug\file sorter.exe.manifest
+G:\file sorter\bin\Debug\file sorter.application
+G:\file sorter\bin\Debug\file sorter.exe
+G:\file sorter\bin\Debug\file sorter.pdb
+G:\file sorter\obj\Debug\file_sorter.Form1.resources
+G:\file sorter\obj\Debug\file_sorter.Properties.Resources.resources
+G:\file sorter\obj\Debug\file sorter.csproj.GenerateResource.cache
+G:\file sorter\obj\Debug\file sorter.csproj.CoreCompileInputs.cache
+G:\file sorter\obj\Debug\file sorter.exe.manifest
+G:\file sorter\obj\Debug\file sorter.application
+G:\file sorter\obj\Debug\file sorter.exe
+G:\file sorter\obj\Debug\file sorter.pdb
