@@ -1,2 +1,2 @@
 # Lazy-sort
-# Sorting file made easy.
+Sorting file made easy.
